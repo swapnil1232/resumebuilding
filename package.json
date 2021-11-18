@@ -1,0 +1,15 @@
+{
+  "name": "resumebuilding",
+  "version": "1.0.0",
+  "description": "Resumebuilding for all my studentsand fresher candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Resume",
+    "Building"
+  ],
+  "author": "Swapnil Gurav",
+  "license": "ISC"
+}
